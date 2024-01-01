@@ -1,8 +1,4 @@
 <p align="left">
-  <img src="https://spinoza.com.tr/img/github.png">
-</p>
-
-<p align="left">
   <a href="https://discord.com/users/166644059534786560" target="_blank">
     <img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
   </a>
