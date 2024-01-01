@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=root@spinoza:~$
-%20welcome%20to%20my%20Page!;How%20are%20you%20today?&center=true&width=700&height=45&color=666666&vCenter=true&pause=1000&size=25" /></a>
-</p>
-
 <h3 align="center">Hey there, I'm <a href="https://github.com/spinozapy">Spinoza</a></h3>
 <h5 align="center">You can reach me with the links below.</h5>
 
