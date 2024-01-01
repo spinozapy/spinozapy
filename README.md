@@ -5,7 +5,6 @@
   <a href="https://instagram.com/spinozapy" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=spinozapy&style=plastic&label=Profile+Views:">
