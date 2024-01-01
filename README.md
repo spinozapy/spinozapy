@@ -12,6 +12,15 @@
       <a href="https://github.com/spinozapy"> 
         <img src="https://komarev.com/ghpvc/?username=spinozapy&style=plastic&label=Profile+Views:">
       </a>
+            <a href="https://github.com/spinozapy"> 
+        <img src="https://komarev.com/ghpvc/?username=spinozapy&style=plastic&label=Profile+Views:">
+      </a>
+            <a href="https://github.com/spinozapy"> 
+        <img src="https://komarev.com/ghpvc/?username=spinozapy&style=plastic&label=Profile+Views:">
+      </a>
+            <a href="https://github.com/spinozapy"> 
+        <img src="https://komarev.com/ghpvc/?username=spinozapy&style=plastic&label=Profile+Views:">
+      </a>
     </div>
   </div>
 </div>
