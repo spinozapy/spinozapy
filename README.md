@@ -15,8 +15,10 @@
     </div>
   </div>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php" />
-</a>
+<div style="display: flex; justify-content: center;">
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark" />
+ </a>
+</div>
   
 </div>
