@@ -15,6 +15,8 @@
     </div>
   </div>
 
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KDot227&hide=php&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php" />
+</a>
   
 </div>
