@@ -14,9 +14,20 @@
       </a>
     </div>
 
-  <div style="width: 400px; text-align: center;">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark&class=center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark&class=center" />
-    </a>
+  <div class="center">
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark" />
+      </a>
+    </div>
   </div>
 </div>
+
+<style>
+
+.center {
+  width: 400px;
+  text-align: center;
+  margin: auto;
+}
+  
+</style>
