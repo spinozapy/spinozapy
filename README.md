@@ -15,8 +15,8 @@
     </div>
 
   <div style="width: 400px; text-align: center;">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark" />
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark&class=center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark&class=center" />
     </a>
   </div>
 </div>
