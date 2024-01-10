@@ -14,12 +14,13 @@
       </a>
     </div>
 
-    <div style="width: 400px; text-align: center;">
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark" />
-      </a>
-    </div>
+  <div style="width: 400px; text-align: center;">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark" />
+    </a>
   </div>
+</div>
+
 </div>
 <div align="center">
   <h3>Hey there, I'm <a href="https://github.com/spinozapy">Spinoza</a></h3>
