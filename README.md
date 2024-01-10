@@ -13,7 +13,7 @@
         <img src="https://komarev.com/ghpvc/?username=spinozapy&style=plastic&label=Profile+Views:">
       </a>
     </div>
-
+   <br>
   <div class="center">
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark" />
@@ -21,13 +21,3 @@
     </div>
   </div>
 </div>
-
-<style>
-
-.center {
-  width: 400px;
-  text-align: center;
-  margin: auto;
-}
-  
-</style>
