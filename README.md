@@ -3,7 +3,7 @@
   <h5>You can reach me with the links below.</h5>
 
   <p>
-    <a href="https://discord.com/users/166644059534786560"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://discord.com/users/119788257859993601"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://instagram.com/spinozapy" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   </p>
 
